@@ -32,5 +32,5 @@ I'm a passionate fullstack software developer. I thrive on constantly learning n
 
 ## 📞 Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/elkobex)
+- **Email:** [elkobexx@gmail.com](mailto:elkobexx@gmail.com)
+- **LinkedIn:** [elkobex](https://www.linkedin.com/in/elkobex)

@@ -1,4 +1,4 @@
-# Hey 👋, I'm Junior Reyes Braian
+# Hey 👋, I'm Junior Reyes
 
 I'm a passionate fullstack software developer. I thrive on constantly learning new technologies and take pride in developing the best possible solutions for my clients.
 
